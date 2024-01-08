@@ -1,0 +1,26 @@
+button{
+    padding: 20px;
+    align-self: center;
+    margin: 40px;
+
+}
+
+
+
+#caixa{
+    visibility: hidden;
+    position: absolute;
+    border: black 2px solid;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+#fechar{
+    cursor: grab;
+}
+
+.fl{
+    display: flex;
+    justify-content: space-between;
+}
